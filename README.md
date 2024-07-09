@@ -1,2 +1,1 @@
-This fbufgyrbfbfio 3heedkf
-fueobfd
+This code takes an input of a video with a stable background and returns a .mov file which makes subtle changes in the air, such as shockwaves or rising heat, visible. It does this by calculating the displacement of the background and generating a heat map representing the scale of the displacement. cv2 is used to build the video afterward. 
